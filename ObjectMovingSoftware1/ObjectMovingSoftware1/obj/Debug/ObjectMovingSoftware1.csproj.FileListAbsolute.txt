@@ -1,0 +1,9 @@
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\obj\Debug\ObjectMovingSoftware1.csprojAssemblyReference.cache
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\obj\Debug\ObjectMovingSoftware1.Form1.resources
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\obj\Debug\ObjectMovingSoftware1.Properties.Resources.resources
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\obj\Debug\ObjectMovingSoftware1.csproj.GenerateResource.cache
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\bin\Debug\ObjectMovingSoftware1.exe.config
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\bin\Debug\ObjectMovingSoftware1.exe
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\bin\Debug\ObjectMovingSoftware1.pdb
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\obj\Debug\ObjectMovingSoftware1.exe
+C:\Users\ollus\source\repos\ObjectMovingSoftware1\ObjectMovingSoftware1\obj\Debug\ObjectMovingSoftware1.pdb
